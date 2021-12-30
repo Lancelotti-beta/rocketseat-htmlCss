@@ -1,0 +1,31 @@
+body{
+
+}
+
+.tituloPrincipal{
+  padding: 20px;
+}
+
+img{
+  width: 100%;
+  border-radius: 3%;
+}
+
+.titulos-secundario{
+  text-align: center;
+}
+
+.itens{
+  font-style: normal;
+  padding: 20px;
+  line-height: 1.2;
+}
+
+footer{
+  background: #CCCCCC;
+
+}
+
+.rodape{
+  text-align: right;
+}
